@@ -1,5 +1,5 @@
 ﻿# Computational-Optimal-transport
-Implementation of the Nys-Sink algorithm presented in https://proceedings.neurips.cc/paper_files/paper/2019/file/f55cadb97eaff2ba1980e001b0bd9842-Paper.pdf. 
+Implementation of the Nys-Sink algorithm presented in \href{https://proceedings.neurips.cc/paper_files/paper/2019/file/f55cadb97eaff2ba1980e001b0bd9842-Paper.pdf}{AA}
 It is composed by several subroutines:
   * AdaptiveNystrom: adaptive version of Nystrom method that uses doubling trick to get adaptivity and data sampling via approximate ridge score;
   * Sinkhorn algorithm;
